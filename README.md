@@ -29,11 +29,8 @@ Step 5: Design layout in activity_main.xml.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
-*/
-Developed by :Muralikrishnan k
-Registration Number : 212221040108
+Developed by:E.Barath
+Registration Number : 212221040026
 ```
 ```
 ## activity_main.xml :
